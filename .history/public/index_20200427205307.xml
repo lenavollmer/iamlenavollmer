@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iamlenavollmer</title>
-    <link>http://iamlenavollmer.com/</link>
+    <link>http://example.org/</link>
     <description>Recent content on iamlenavollmer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://iamlenavollmer.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>About Lena</title>
-      <link>http://iamlenavollmer.com/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://iamlenavollmer.com/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>I am a web developer and scrum master working in the financial &amp;amp; automotive sector.
 While I work very &amp;lsquo;full-stack&amp;rsquo;, my real love is frontend. Especially frontend frameworks / libraries as they increase overall development speed and brand conformity. I will always defend and fight for them.
 I&amp;rsquo;m fairly experienced when it comes to React and I actually love TypeScript.
